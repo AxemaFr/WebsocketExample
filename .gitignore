@@ -1,0 +1,9 @@
+/.idea
+
+/node_modules
+/server/node_modules
+
+/server/server.js
+/server/types.js
+
+/client/script.js
