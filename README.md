@@ -1,6 +1,11 @@
 # Простой пример использования WebSocket'ов для [Junior/Middle Frontend room](https://t.me/jun_mid_front)
 
-### [Click here if you want to read it in English]()
+### [Click here if you want to read it in English](https://github.com/AxemaFr/WebsocketExample/blob/master/README.en.md)
+
+
+
+https://user-images.githubusercontent.com/58857722/119060734-7eb99500-b9db-11eb-8fa9-ef3a6a6682fd.mov
+
 
 --- 
 
